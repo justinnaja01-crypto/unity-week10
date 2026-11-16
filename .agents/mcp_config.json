@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "unity": {
+      "command": "node",
+      "args": [
+        "D:/GI113_Kittipop_1690703457/unity-week10/Tools/unity-mcp-server/src/index.js"
+      ]
+    }
+  }
+}
+
